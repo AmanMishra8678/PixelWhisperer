@@ -13,6 +13,7 @@ Steganography involves hiding data within an image's least significant bits, all
 - Python 3.x
 - OpenCV (`cv2`) library
 - numpy
+  
 Install the required library using:
 
 ```bash
